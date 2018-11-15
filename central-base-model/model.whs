@@ -1,0 +1,4 @@
+         0   Factorization level (0 or 1)
+      1000       1000   Maximum outer iterations, maximum inner iterations
+1.000e+00 1.000e-02   Damping factor (from 0.0 to 1.0), head criterion
+1.000e-02 0.000e+00   Criterion for linear iteration, relative residual

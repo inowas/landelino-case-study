@@ -1,0 +1,258 @@
+F2F: 20/01/2008. Host:build4-wat.  MFReader.DLL
+
+**** Start MFReader for project E:\Documents and Settings\tmartins\My Documents\Projectos\SRHE Pernambuco\Modelo_Centro_VMF\Modelo_Centro_v10_2013_2015_refinado\Corrida_52ipoj\Modelo_Centro_v10_2013_2015_refinado_corrida52 of type BAS6
+Error  29 in Open_File: Cannot open NameFile E:\DOCUMENTS AND SETTINGS\TMARTINS\MY DOCUMENTS\PROJECTOS\SRHE PERNAMBUCO\MODELO_CENTRO_VMF\MODELO_CENTRO_V10_2013_2015_REFINADO\CORRIDA_52IPOJ\MODELO_CENTRO_V10_2013_2015_REFINADO_CORRIDA52    Try to use suffix
+Error  29 in Open_File: Cannot open NameFile E:\DOCUMENTS AND SETTINGS\TMARTINS\MY DOCUMENTS\PROJECTOS\SRHE PERNAMBUCO\MODELO_CENTRO_VMF\MODELO_CENTRO_V10_2013_2015_REFINADO\CORRIDA_52IPOJ\MODELO_CENTRO_V10_2013_2015_REFINADO_CORRIDA52.NAM    Try to use su
+NameFile E:\DOCUMENTS AND SETTINGS\TMARTINS\MY DOCUMENTS\PROJECTOS\SRHE PERNAMBUCO\MODELO_CENTRO_VMF\MODELO_CENTRO_V10_2013_2015_REFINADO\CORRIDA_52IPOJ\MODELO_CENTRO_V10_2013_2015_REFINADO_CORRIDA52.MODFLOW.IN opened successfully.
+ Unit    6: opening as REPLACE FORMATTED readwrite file E:\Documents and Settings\tmartins\My Documents\Projectos\SRHE Pernambuco\Modelo_Centro_VMF\Modelo_Centro_v10_2013_2015_refinado\Corrida_52ipoj\Modelo_Centro_v10_2013_2015_refinado_corrida52.LST
+ File E:\DOCUMENTS AND SETTINGS\TMARTINS\MY DOCUMENTS\PROJECTOS\SRHE PERNAMBUCO\MODELO_CENTRO_VMF\MODELO_CENTRO_V10_2013_2015_REFINADO\CORRIDA_52IPOJ\MODELO_CENTRO_V10_2013_2015_REFINADO_CORRIDA52.LST opened successfully
+ Unit   53: opening as OLD FORMATTED read file E:\Documents and Settings\tmartins\My Documents\Projectos\SRHE Pernambuco\Modelo_Centro_VMF\Modelo_Centro_v10_2013_2015_refinado\Corrida_52ipoj\Modelo_Centro_v10_2013_2015_refinado_corrida52.WHS
+ File E:\DOCUMENTS AND SETTINGS\TMARTINS\MY DOCUMENTS\PROJECTOS\SRHE PERNAMBUCO\MODELO_CENTRO_VMF\MODELO_CENTRO_V10_2013_2015_REFINADO\CORRIDA_52IPOJ\MODELO_CENTRO_V10_2013_2015_REFINADO_CORRIDA52.WHS opened successfully
+ Unit   10: opening as OLD FORMATTED read file E:\Documents and Settings\tmartins\My Documents\Projectos\SRHE Pernambuco\Modelo_Centro_VMF\Modelo_Centro_v10_2013_2015_refinado\Corrida_52ipoj\Modelo_Centro_v10_2013_2015_refinado_corrida52.BAS
+ File E:\DOCUMENTS AND SETTINGS\TMARTINS\MY DOCUMENTS\PROJECTOS\SRHE PERNAMBUCO\MODELO_CENTRO_VMF\MODELO_CENTRO_V10_2013_2015_REFINADO\CORRIDA_52IPOJ\MODELO_CENTRO_V10_2013_2015_REFINADO_CORRIDA52.BAS opened successfully
+ Unit   11: opening as OLD FORMATTED read file E:\Documents and Settings\tmartins\My Documents\Projectos\SRHE Pernambuco\Modelo_Centro_VMF\Modelo_Centro_v10_2013_2015_refinado\Corrida_52ipoj\Modelo_Centro_v10_2013_2015_refinado_corrida52.BCF
+ File E:\DOCUMENTS AND SETTINGS\TMARTINS\MY DOCUMENTS\PROJECTOS\SRHE PERNAMBUCO\MODELO_CENTRO_VMF\MODELO_CENTRO_V10_2013_2015_REFINADO\CORRIDA_52IPOJ\MODELO_CENTRO_V10_2013_2015_REFINADO_CORRIDA52.BCF opened successfully
+ Unit   12: opening as OLD FORMATTED read file E:\Documents and Settings\tmartins\My Documents\Projectos\SRHE Pernambuco\Modelo_Centro_VMF\Modelo_Centro_v10_2013_2015_refinado\Corrida_52ipoj\Modelo_Centro_v10_2013_2015_refinado_corrida52.WEL
+ File E:\DOCUMENTS AND SETTINGS\TMARTINS\MY DOCUMENTS\PROJECTOS\SRHE PERNAMBUCO\MODELO_CENTRO_VMF\MODELO_CENTRO_V10_2013_2015_REFINADO\CORRIDA_52IPOJ\MODELO_CENTRO_V10_2013_2015_REFINADO_CORRIDA52.WEL opened successfully
+ Unit   14: opening as OLD FORMATTED read file E:\Documents and Settings\tmartins\My Documents\Projectos\SRHE Pernambuco\Modelo_Centro_VMF\Modelo_Centro_v10_2013_2015_refinado\Corrida_52ipoj\Modelo_Centro_v10_2013_2015_refinado_corrida52.RIV
+ File E:\DOCUMENTS AND SETTINGS\TMARTINS\MY DOCUMENTS\PROJECTOS\SRHE PERNAMBUCO\MODELO_CENTRO_VMF\MODELO_CENTRO_V10_2013_2015_REFINADO\CORRIDA_52IPOJ\MODELO_CENTRO_V10_2013_2015_REFINADO_CORRIDA52.RIV opened successfully
+ Unit   18: opening as OLD FORMATTED read file E:\Documents and Settings\tmartins\My Documents\Projectos\SRHE Pernambuco\Modelo_Centro_VMF\Modelo_Centro_v10_2013_2015_refinado\Corrida_52ipoj\Modelo_Centro_v10_2013_2015_refinado_corrida52.RCH
+ File E:\DOCUMENTS AND SETTINGS\TMARTINS\MY DOCUMENTS\PROJECTOS\SRHE PERNAMBUCO\MODELO_CENTRO_VMF\MODELO_CENTRO_V10_2013_2015_REFINADO\CORRIDA_52IPOJ\MODELO_CENTRO_V10_2013_2015_REFINADO_CORRIDA52.RCH opened successfully
+ Unit   22: opening as OLD FORMATTED read file E:\Documents and Settings\tmartins\My Documents\Projectos\SRHE Pernambuco\Modelo_Centro_VMF\Modelo_Centro_v10_2013_2015_refinado\Corrida_52ipoj\Modelo_Centro_v10_2013_2015_refinado_corrida52.OC
+ File E:\DOCUMENTS AND SETTINGS\TMARTINS\MY DOCUMENTS\PROJECTOS\SRHE PERNAMBUCO\MODELO_CENTRO_VMF\MODELO_CENTRO_V10_2013_2015_REFINADO\CORRIDA_52IPOJ\MODELO_CENTRO_V10_2013_2015_REFINADO_CORRIDA52.OC opened successfully
+ Unit   34: opening as OLD FORMATTED read file E:\Documents and Settings\tmartins\My Documents\Projectos\SRHE Pernambuco\Modelo_Centro_VMF\Modelo_Centro_v10_2013_2015_refinado\Corrida_52ipoj\Modelo_Centro_v10_2013_2015_refinado_corrida52.DIS
+ File E:\DOCUMENTS AND SETTINGS\TMARTINS\MY DOCUMENTS\PROJECTOS\SRHE PERNAMBUCO\MODELO_CENTRO_VMF\MODELO_CENTRO_V10_2013_2015_REFINADO\CORRIDA_52IPOJ\MODELO_CENTRO_V10_2013_2015_REFINADO_CORRIDA52.DIS opened successfully
+ Unit   54: opening as OLD FORMATTED read file E:\Documents and Settings\tmartins\My Documents\Projectos\SRHE Pernambuco\Modelo_Centro_VMF\Modelo_Centro_v10_2013_2015_refinado\Corrida_52ipoj\Modelo_Centro_v10_2013_2015_refinado_corrida52.CLB
+ File E:\DOCUMENTS AND SETTINGS\TMARTINS\MY DOCUMENTS\PROJECTOS\SRHE PERNAMBUCO\MODELO_CENTRO_VMF\MODELO_CENTRO_V10_2013_2015_REFINADO\CORRIDA_52IPOJ\MODELO_CENTRO_V10_2013_2015_REFINADO_CORRIDA52.CLB opened successfully
+ Unit   57: opening as OLD FORMATTED read file E:\Documents and Settings\tmartins\My Documents\Projectos\SRHE Pernambuco\Modelo_Centro_VMF\Modelo_Centro_v10_2013_2015_refinado\Corrida_52ipoj\Modelo_Centro_v10_2013_2015_refinado_corrida52.NDC
+ File E:\DOCUMENTS AND SETTINGS\TMARTINS\MY DOCUMENTS\PROJECTOS\SRHE PERNAMBUCO\MODELO_CENTRO_VMF\MODELO_CENTRO_V10_2013_2015_REFINADO\CORRIDA_52IPOJ\MODELO_CENTRO_V10_2013_2015_REFINADO_CORRIDA52.NDC opened successfully
+ Unit  150: opening as UNKNOWN BINARY readwrite file E:\Documents and Settings\tmartins\My Documents\Projectos\SRHE Pernambuco\Modelo_Centro_VMF\Modelo_Centro_v10_2013_2015_refinado\Corrida_52ipoj\Modelo_Centro_v10_2013_2015_refinado_corrida52.HDS
+ File E:\DOCUMENTS AND SETTINGS\TMARTINS\MY DOCUMENTS\PROJECTOS\SRHE PERNAMBUCO\MODELO_CENTRO_VMF\MODELO_CENTRO_V10_2013_2015_REFINADO\CORRIDA_52IPOJ\MODELO_CENTRO_V10_2013_2015_REFINADO_CORRIDA52.HDS opened successfully
+ Unit  151: opening as UNKNOWN BINARY readwrite file E:\Documents and Settings\tmartins\My Documents\Projectos\SRHE Pernambuco\Modelo_Centro_VMF\Modelo_Centro_v10_2013_2015_refinado\Corrida_52ipoj\Modelo_Centro_v10_2013_2015_refinado_corrida52.DDN
+ File E:\DOCUMENTS AND SETTINGS\TMARTINS\MY DOCUMENTS\PROJECTOS\SRHE PERNAMBUCO\MODELO_CENTRO_VMF\MODELO_CENTRO_V10_2013_2015_REFINADO\CORRIDA_52IPOJ\MODELO_CENTRO_V10_2013_2015_REFINADO_CORRIDA52.DDN opened successfully
+ Unit  154: opening as UNKNOWN UNFORMATTED readwrite file E:\Documents and Settings\tmartins\My Documents\Projectos\SRHE Pernambuco\Modelo_Centro_VMF\Modelo_Centro_v10_2013_2015_refinado\Corrida_52ipoj\Modelo_Centro_v10_2013_2015_refinado_corrida52.BGT
+ File E:\DOCUMENTS AND SETTINGS\TMARTINS\MY DOCUMENTS\PROJECTOS\SRHE PERNAMBUCO\MODELO_CENTRO_VMF\MODELO_CENTRO_V10_2013_2015_REFINADO\CORRIDA_52IPOJ\MODELO_CENTRO_V10_2013_2015_REFINADO_CORRIDA52.BGT opened successfully
+ Unit  152: opening as UNKNOWN BINARY readwrite file E:\Documents and Settings\tmartins\My Documents\Projectos\SRHE Pernambuco\Modelo_Centro_VMF\Modelo_Centro_v10_2013_2015_refinado\Corrida_52ipoj\Modelo_Centro_v10_2013_2015_refinado_corrida52.sig
+   cannot open E:\DOCUMENTS AND SETTINGS\TMARTINS\MY DOCUMENTS\PROJECTOS\SRHE PERNAMBUCO\MODELO_CENTRO_VMF\MODELO_CENTRO_V10_2013_2015_REFINADO\CORRIDA_52IPOJ\MODELO_CENTRO_V10_2013_2015_REFINADO_CORRIDA52.SIG
+Error  30 in Open_File: Cannot open file E:\Documents and Settings\tmartins\My Documents\Projectos\SRHE Pernambuco\Modelo_Centro_VMF\Modelo_Centro_v10_2013_2015_refinado\Corrida_52ipoj\Modelo_Centro_v10_2013_2015_refinado_corrida52.sig
+ Unit  153: opening as UNKNOWN BINARY readwrite file E:\Documents and Settings\tmartins\My Documents\Projectos\SRHE Pernambuco\Modelo_Centro_VMF\Modelo_Centro_v10_2013_2015_refinado\Corrida_52ipoj\Modelo_Centro_v10_2013_2015_refinado_corrida52.HVT
+ File E:\DOCUMENTS AND SETTINGS\TMARTINS\MY DOCUMENTS\PROJECTOS\SRHE PERNAMBUCO\MODELO_CENTRO_VMF\MODELO_CENTRO_V10_2013_2015_REFINADO\CORRIDA_52IPOJ\MODELO_CENTRO_V10_2013_2015_REFINADO_CORRIDA52.HVT opened successfully
+ #Discretization Package translator - (c) 2011 Schlumberger Water Services
+ #MODELO_CENTRO_V10_2013_2015_REFINADO_CORRIDA52.DIS Fri Apr 07 12:04:02 2017
+
+
+
+                               DELR
+ READING ON UNIT   34 WITH FORMAT: (10E16.9)           
+
+
+
+                               DELC
+ READING ON UNIT   34 WITH FORMAT: (10E16.9)           
+
+
+
+                               ELEV
+ READING ON UNIT   34 WITH FORMAT: (10E14.7)           
+
+
+
+                               ELEV FOR LAYER   1
+ READING ON UNIT   34 WITH FORMAT: (10E14.7)           
+
+
+
+                               ELEV FOR LAYER   2
+ READING ON UNIT   34 WITH FORMAT: (10E14.7)           
+
+
+
+                               ELEV FOR LAYER   3
+ READING ON UNIT   34 WITH FORMAT: (10E14.7)           
+
+
+
+                               ELEV FOR LAYER   4
+ READING ON UNIT   34 WITH FORMAT: (10E14.7)           
+
+
+
+                               ELEV FOR LAYER   5
+ READING ON UNIT   34 WITH FORMAT: (10E14.7)           
+
+
+
+                               ELEV FOR LAYER   6
+ READING ON UNIT   34 WITH FORMAT: (10E14.7)           
+
+
+
+                               ELEV FOR LAYER   7
+ READING ON UNIT   34 WITH FORMAT: (10E14.7)           
+ #Basic Package translator - (c) 2011 Schlumberger Water Services                
+ #MODELO_CENTRO_V10_2013_2015_REFINADO_CORRIDA52.BAS Fri Apr 07 12:04:00 2017    
+
+
+
+                     BOUNDARY ARRAY FOR LAYER   1
+ READING ON UNIT   10 WITH FORMAT: (40I2)              
+
+
+
+                     BOUNDARY ARRAY FOR LAYER   2
+ READING ON UNIT   10 WITH FORMAT: (40I2)              
+
+
+
+                     BOUNDARY ARRAY FOR LAYER   3
+ READING ON UNIT   10 WITH FORMAT: (40I2)              
+
+
+
+                     BOUNDARY ARRAY FOR LAYER   4
+ READING ON UNIT   10 WITH FORMAT: (40I2)              
+
+
+
+                     BOUNDARY ARRAY FOR LAYER   5
+ READING ON UNIT   10 WITH FORMAT: (40I2)              
+
+
+
+                     BOUNDARY ARRAY FOR LAYER   6
+ READING ON UNIT   10 WITH FORMAT: (40I2)              
+
+
+
+                     BOUNDARY ARRAY FOR LAYER   7
+ READING ON UNIT   10 WITH FORMAT: (40I2)              
+
+ AQUIFER HEAD WILL BE SET TO 1.00000E+30 AT ALL NO-FLOW NODES (IBOUND=0).
+
+
+
+                       INITIAL HEAD FOR LAYER   1
+ READING ON UNIT   10 WITH FORMAT:  (10G12.5)          
+
+
+
+                       INITIAL HEAD FOR LAYER   2
+ READING ON UNIT   10 WITH FORMAT:  (10G12.5)          
+
+
+
+                       INITIAL HEAD FOR LAYER   3
+ READING ON UNIT   10 WITH FORMAT:  (10G12.5)          
+
+
+
+                       INITIAL HEAD FOR LAYER   4
+ READING ON UNIT   10 WITH FORMAT:  (10G12.5)          
+
+
+
+                       INITIAL HEAD FOR LAYER   5
+ READING ON UNIT   10 WITH FORMAT:  (10G12.5)          
+
+
+
+                       INITIAL HEAD FOR LAYER   6
+ READING ON UNIT   10 WITH FORMAT:  (10G12.5)          
+
+
+
+                       INITIAL HEAD FOR LAYER   7
+ READING ON UNIT   10 WITH FORMAT:  (10G12.5)          
+
+ BCF6 -- BLOCK-CENTERED FLOW PACKAGE, VERSION 6, 1/11/2000
+         INPUT READ FROM UNIT 11
+ STEADY-STATE SIMULATION
+ CELL-BY-CELL FLOWS WILL BE SAVED ON UNIT154
+ HEAD AT CELLS THAT CONVERT TO DRY= -0.10000E+31
+ WETTING CAPABILITY IS ACTIVE
+ WETTING FACTOR=   1.00000     WETTING ITERATION INTERVAL=   1
+ FLAG THAT SPECIFIES THE EQUATION TO USE FOR HEAD AT WETTED CELLS=   0
+      LAYER  LAYER-TYPE CODE     INTERBLOCK T
+      --------------------------------------------
+         1            1          0 -- HARMONIC    
+         2            2          0 -- HARMONIC    
+         3            0          0 -- HARMONIC    
+         4            0          0 -- HARMONIC    
+         5            0          0 -- HARMONIC    
+         6            0          0 -- HARMONIC    
+         7            0          0 -- HARMONIC    
+
+
+
+           COLUMN TO ROW ANISOTROPY
+ READING ON UNIT   11 WITH FORMAT: (10G11.4)           
+
+
+
+              HYD. COND. ALONG ROWS FOR LAYER   1
+ READING ON UNIT   11 WITH FORMAT:  (10G11.4)          
+
+
+
+           VERT HYD COND /THICKNESS FOR LAYER   1
+ READING ON UNIT   11 WITH FORMAT:  (10G11.4)          
+
+
+
+                   WETDRY PARAMETER FOR LAYER   1
+ READING ON UNIT   11 WITH FORMAT:  (10G11.4)          
+
+
+
+               TRANSMIS. ALONG ROWS FOR LAYER   2
+ READING ON UNIT   11 WITH FORMAT:  (10G11.4)          
+
+
+
+           VERT HYD COND /THICKNESS FOR LAYER   2
+ READING ON UNIT   11 WITH FORMAT:  (10G11.4)          
+
+
+
+               TRANSMIS. ALONG ROWS FOR LAYER   3
+ READING ON UNIT   11 WITH FORMAT:  (10G11.4)          
+
+
+
+           VERT HYD COND /THICKNESS FOR LAYER   3
+ READING ON UNIT   11 WITH FORMAT:  (10G11.4)          
+
+
+
+               TRANSMIS. ALONG ROWS FOR LAYER   4
+ READING ON UNIT   11 WITH FORMAT:  (10G11.4)          
+
+
+
+           VERT HYD COND /THICKNESS FOR LAYER   4
+ READING ON UNIT   11 WITH FORMAT:  (10G11.4)          
+
+
+
+               TRANSMIS. ALONG ROWS FOR LAYER   5
+ READING ON UNIT   11 WITH FORMAT:  (10G11.4)          
+
+
+
+           VERT HYD COND /THICKNESS FOR LAYER   5
+ READING ON UNIT   11 WITH FORMAT:  (10G11.4)          
+
+
+
+               TRANSMIS. ALONG ROWS FOR LAYER   6
+ READING ON UNIT   11 WITH FORMAT:  (10G11.4)          
+
+
+
+           VERT HYD COND /THICKNESS FOR LAYER   6
+ READING ON UNIT   11 WITH FORMAT:  (10G11.4)          
+
+
+
+               TRANSMIS. ALONG ROWS FOR LAYER   7
+ READING ON UNIT   11 WITH FORMAT:  (10G11.4)          

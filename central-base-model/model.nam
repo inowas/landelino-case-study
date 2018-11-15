@@ -1,0 +1,16 @@
+LIST    6           model.lst
+#WHS     53          model.whs
+BAS6    10          model.bas
+BCF6    11          model.bcf
+WEL     12          model.wel
+#RIV     14          model.riv
+#RCH     18          model.rch
+OC      22          model.oc
+DIS     34          model.dis
+#CLB     54          model.clb
+#NDC     57          model.ndc
+DATA(BINARY) 150    model.hds
+DATA(BINARY) 151    model.ddn
+DATA(BINARY) 154    model.bgt
+DATA(BINARY) 152    model.sig
+DATA(BINARY) 153    model.hvt

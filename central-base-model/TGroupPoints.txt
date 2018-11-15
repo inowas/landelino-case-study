@@ -1,0 +1,253 @@
+GroupName ~ WellName ~ WellType ~ PointName
+A.All ~ 5444-P_13 ~ Flow ~ 1
+A.All ~ 5479-P_13 ~ Flow ~ 1
+A.All ~ 5491-P_13 ~ Flow ~ 1
+A.All ~ 5528-P_13 ~ Flow ~ 1
+A.All ~ 5567-P_13 ~ Flow ~ 1
+A.All ~ 5569-P_13 ~ Flow ~ 1
+A.All ~ 5592-P_13 ~ Flow ~ 1
+A.All ~ 5599-P_13 ~ Flow ~ 1
+A.All ~ 5600-P_13 ~ Flow ~ 1
+A.All ~ 5633-P_13 ~ Flow ~ 1
+A.All ~ 5634-P_13 ~ Flow ~ 1
+A.All ~ 5635-P_13 ~ Flow ~ 1
+A.All ~ 5636-P_13 ~ Flow ~ 1
+A.All ~ 5637-P_13 ~ Flow ~ 1
+A.All ~ 5645-P_13 ~ Flow ~ 1
+A.All ~ 5647-P_13 ~ Flow ~ 1
+A.All ~ 5648-P_13 ~ Flow ~ 1
+A.All ~ 5728-P_13 ~ Flow ~ 1
+A.All ~ 5736-P_13 ~ Flow ~ 1
+A.All ~ 5738-P_13 ~ Flow ~ 1
+A.All ~ 5740-P_13 ~ Flow ~ 1
+A.All ~ 5741-P_13 ~ Flow ~ 1
+A.All ~ 5759-P_13 ~ Flow ~ 1
+A.All ~ 5782-P_13 ~ Flow ~ 1
+A.All ~ 5783-P_13 ~ Flow ~ 1
+A.All ~ 5784-P_13 ~ Flow ~ 1
+A.All ~ 5786-P_13 ~ Flow ~ 1
+A.All ~ 5797-P_13 ~ Flow ~ 1
+A.All ~ 5800-P_13 ~ Flow ~ 1
+A.All ~ 5813-P_13 ~ Flow ~ 1
+A.All ~ 5821-P_13 ~ Flow ~ 1
+A.All ~ 5822-P_13 ~ Flow ~ 1
+A.All ~ 5823-P_13 ~ Flow ~ 1
+A.All ~ 5824-P_13 ~ Flow ~ 1
+A.All ~ 5825-P_13 ~ Flow ~ 1
+A.All ~ 5826-P_13 ~ Flow ~ 1
+A.All ~ 5841-P_13 ~ Flow ~ 1
+A.All ~ 5842-P_13 ~ Flow ~ 1
+A.All ~ 5846-P_13 ~ Flow ~ 1
+A.All ~ 5851-P_13 ~ Flow ~ 1
+A.All ~ 5855-P_13 ~ Flow ~ 1
+A.All ~ 5864-P_13 ~ Flow ~ 1
+A.All ~ 5871-P_13 ~ Flow ~ 1
+A.All ~ 5875-P_13 ~ Flow ~ 1
+A.All ~ 5877-P_13 ~ Flow ~ 1
+A.All ~ 5895-P_13 ~ Flow ~ 1
+A.All ~ 5911-P_14 ~ Flow ~ 1
+A.All ~ 5924-P_14 ~ Flow ~ 1
+A.All ~ 5928-P_14 ~ Flow ~ 1
+A.All ~ 5946-P_14 ~ Flow ~ 1
+A.All ~ 5991-P_14 ~ Flow ~ 1
+A.All ~ 5994-P_14 ~ Flow ~ 1
+A.All ~ 6026-P_14 ~ Flow ~ 1
+A.All ~ 6050-P_14 ~ Flow ~ 1
+A.All ~ 6053-P_14 ~ Flow ~ 1
+A.All ~ 6082-P_14 ~ Flow ~ 1
+A.All ~ 6086-P_14 ~ Flow ~ 1
+A.All ~ 6143-P_14 ~ Flow ~ 1
+A.All ~ 6206-P_14 ~ Flow ~ 1
+A.All ~ 6217-P_14 ~ Flow ~ 1
+A.All ~ 6259-P_14 ~ Flow ~ 1
+A.All ~ 6287-P_15 ~ Flow ~ 1
+A.All ~ 6334-P_15 ~ Flow ~ 1
+A.All ~ 6349-P_15 ~ Flow ~ 1
+A.All ~ 6353-P_15 ~ Flow ~ 1
+A.All ~ 6385-P_15 ~ Flow ~ 1
+A.All ~ HRIII_10401 ~ Flow ~ 1
+A.All ~ HRIII_4644 ~ Flow ~ 1
+A.All ~ HRIII_4898 ~ Flow ~ 1
+A.All ~ HRIII_5227 ~ Flow ~ 1
+A.All ~ HRIII_5304 ~ Flow ~ 1
+A.All ~ HRIII_7623 ~ Flow ~ 1
+A.All ~ HRIII_7636 ~ Flow ~ 1
+A.All ~ HRIII_7690 ~ Flow ~ 1
+A.All ~ HRIII_7780 ~ Flow ~ 1
+A.All ~ HRIII_7862 ~ Flow ~ 1
+A.All ~ HRIII_8057 ~ Flow ~ 1
+A.All ~ HRIII_8087 ~ Flow ~ 1
+A.All ~ HRIII_8117 ~ Flow ~ 1
+A.All ~ HRIII_8227 ~ Flow ~ 1
+A.All ~ HRIII_8228 ~ Flow ~ 1
+A.All ~ HRIII_8749 ~ Flow ~ 1
+A.All ~ HRIII_8839 ~ Flow ~ 1
+A.All ~ HRIII_9215 ~ Flow ~ 1
+L2.Layer #2 ~ 5600-P_13 ~ Flow ~ 1
+L2.Layer #2 ~ 5736-P_13 ~ Flow ~ 1
+L2.Layer #2 ~ 5786-P_13 ~ Flow ~ 1
+L2.Layer #2 ~ 5842-P_13 ~ Flow ~ 1
+L2.Layer #2 ~ 5875-P_13 ~ Flow ~ 1
+L2.Layer #2 ~ 5877-P_13 ~ Flow ~ 1
+L2.Layer #2 ~ 5895-P_13 ~ Flow ~ 1
+L2.Layer #2 ~ 6050-P_14 ~ Flow ~ 1
+L2.Layer #2 ~ 6082-P_14 ~ Flow ~ 1
+L2.Layer #2 ~ 6143-P_14 ~ Flow ~ 1
+L2.Layer #2 ~ 6217-P_14 ~ Flow ~ 1
+L2.Layer #2 ~ 6385-P_15 ~ Flow ~ 1
+L3.Layer #3 ~ 5528-P_13 ~ Flow ~ 1
+L3.Layer #3 ~ 5738-P_13 ~ Flow ~ 1
+L3.Layer #3 ~ 5782-P_13 ~ Flow ~ 1
+L3.Layer #3 ~ 5991-P_14 ~ Flow ~ 1
+L3.Layer #3 ~ 6259-P_14 ~ Flow ~ 1
+L3.Layer #3 ~ 6349-P_15 ~ Flow ~ 1
+L3.Layer #3 ~ HRIII_5227 ~ Flow ~ 1
+L3.Layer #3 ~ HRIII_5304 ~ Flow ~ 1
+L4.Layer #4 ~ 5821-P_13 ~ Flow ~ 1
+L4.Layer #4 ~ 5822-P_13 ~ Flow ~ 1
+L4.Layer #4 ~ 5823-P_13 ~ Flow ~ 1
+L4.Layer #4 ~ 5824-P_13 ~ Flow ~ 1
+L4.Layer #4 ~ 5825-P_13 ~ Flow ~ 1
+L4.Layer #4 ~ 5826-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5444-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5479-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5491-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5567-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5569-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5592-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5599-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5633-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5634-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5635-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5636-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5637-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5645-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5647-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5648-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5728-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5740-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5741-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5759-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5783-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5784-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5797-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5800-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5813-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5841-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5846-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5851-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5855-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5864-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5871-P_13 ~ Flow ~ 1
+L6.Layer #6 ~ 5911-P_14 ~ Flow ~ 1
+L6.Layer #6 ~ 5924-P_14 ~ Flow ~ 1
+L6.Layer #6 ~ 5928-P_14 ~ Flow ~ 1
+L6.Layer #6 ~ 5946-P_14 ~ Flow ~ 1
+L6.Layer #6 ~ 5994-P_14 ~ Flow ~ 1
+L6.Layer #6 ~ 6026-P_14 ~ Flow ~ 1
+L6.Layer #6 ~ 6053-P_14 ~ Flow ~ 1
+L6.Layer #6 ~ 6086-P_14 ~ Flow ~ 1
+L6.Layer #6 ~ 6206-P_14 ~ Flow ~ 1
+L6.Layer #6 ~ 6287-P_15 ~ Flow ~ 1
+L6.Layer #6 ~ 6334-P_15 ~ Flow ~ 1
+L6.Layer #6 ~ 6353-P_15 ~ Flow ~ 1
+L6.Layer #6 ~ HRIII_10401 ~ Flow ~ 1
+L6.Layer #6 ~ HRIII_4644 ~ Flow ~ 1
+L6.Layer #6 ~ HRIII_4898 ~ Flow ~ 1
+L6.Layer #6 ~ HRIII_7623 ~ Flow ~ 1
+L6.Layer #6 ~ HRIII_7636 ~ Flow ~ 1
+L6.Layer #6 ~ HRIII_7690 ~ Flow ~ 1
+L6.Layer #6 ~ HRIII_7780 ~ Flow ~ 1
+L6.Layer #6 ~ HRIII_7862 ~ Flow ~ 1
+L6.Layer #6 ~ HRIII_8057 ~ Flow ~ 1
+L6.Layer #6 ~ HRIII_8087 ~ Flow ~ 1
+L6.Layer #6 ~ HRIII_8117 ~ Flow ~ 1
+L6.Layer #6 ~ HRIII_8227 ~ Flow ~ 1
+L6.Layer #6 ~ HRIII_8228 ~ Flow ~ 1
+L6.Layer #6 ~ HRIII_8749 ~ Flow ~ 1
+L6.Layer #6 ~ HRIII_8839 ~ Flow ~ 1
+L6.Layer #6 ~ HRIII_9215 ~ Flow ~ 1
+W1.5444-P_13 ~ 5444-P_13 ~ Flow ~ 1
+W10.5633-P_13 ~ 5633-P_13 ~ Flow ~ 1
+W11.5634-P_13 ~ 5634-P_13 ~ Flow ~ 1
+W12.5635-P_13 ~ 5635-P_13 ~ Flow ~ 1
+W13.5636-P_13 ~ 5636-P_13 ~ Flow ~ 1
+W14.5637-P_13 ~ 5637-P_13 ~ Flow ~ 1
+W15.5645-P_13 ~ 5645-P_13 ~ Flow ~ 1
+W16.5647-P_13 ~ 5647-P_13 ~ Flow ~ 1
+W17.5648-P_13 ~ 5648-P_13 ~ Flow ~ 1
+W18.5728-P_13 ~ 5728-P_13 ~ Flow ~ 1
+W19.5736-P_13 ~ 5736-P_13 ~ Flow ~ 1
+W2.5479-P_13 ~ 5479-P_13 ~ Flow ~ 1
+W20.5738-P_13 ~ 5738-P_13 ~ Flow ~ 1
+W21.5740-P_13 ~ 5740-P_13 ~ Flow ~ 1
+W22.5741-P_13 ~ 5741-P_13 ~ Flow ~ 1
+W23.5759-P_13 ~ 5759-P_13 ~ Flow ~ 1
+W24.5782-P_13 ~ 5782-P_13 ~ Flow ~ 1
+W25.5783-P_13 ~ 5783-P_13 ~ Flow ~ 1
+W26.5784-P_13 ~ 5784-P_13 ~ Flow ~ 1
+W27.5786-P_13 ~ 5786-P_13 ~ Flow ~ 1
+W28.5797-P_13 ~ 5797-P_13 ~ Flow ~ 1
+W29.5800-P_13 ~ 5800-P_13 ~ Flow ~ 1
+W3.5491-P_13 ~ 5491-P_13 ~ Flow ~ 1
+W30.5813-P_13 ~ 5813-P_13 ~ Flow ~ 1
+W31.5821-P_13 ~ 5821-P_13 ~ Flow ~ 1
+W32.5822-P_13 ~ 5822-P_13 ~ Flow ~ 1
+W33.5823-P_13 ~ 5823-P_13 ~ Flow ~ 1
+W34.5824-P_13 ~ 5824-P_13 ~ Flow ~ 1
+W35.5825-P_13 ~ 5825-P_13 ~ Flow ~ 1
+W36.5826-P_13 ~ 5826-P_13 ~ Flow ~ 1
+W37.5841-P_13 ~ 5841-P_13 ~ Flow ~ 1
+W38.5842-P_13 ~ 5842-P_13 ~ Flow ~ 1
+W39.5846-P_13 ~ 5846-P_13 ~ Flow ~ 1
+W4.5528-P_13 ~ 5528-P_13 ~ Flow ~ 1
+W40.5851-P_13 ~ 5851-P_13 ~ Flow ~ 1
+W41.5855-P_13 ~ 5855-P_13 ~ Flow ~ 1
+W42.5864-P_13 ~ 5864-P_13 ~ Flow ~ 1
+W43.5871-P_13 ~ 5871-P_13 ~ Flow ~ 1
+W44.5875-P_13 ~ 5875-P_13 ~ Flow ~ 1
+W45.5877-P_13 ~ 5877-P_13 ~ Flow ~ 1
+W46.5895-P_13 ~ 5895-P_13 ~ Flow ~ 1
+W47.5911-P_14 ~ 5911-P_14 ~ Flow ~ 1
+W48.5924-P_14 ~ 5924-P_14 ~ Flow ~ 1
+W49.5928-P_14 ~ 5928-P_14 ~ Flow ~ 1
+W5.5567-P_13 ~ 5567-P_13 ~ Flow ~ 1
+W50.5946-P_14 ~ 5946-P_14 ~ Flow ~ 1
+W51.5991-P_14 ~ 5991-P_14 ~ Flow ~ 1
+W52.5994-P_14 ~ 5994-P_14 ~ Flow ~ 1
+W53.6026-P_14 ~ 6026-P_14 ~ Flow ~ 1
+W54.6050-P_14 ~ 6050-P_14 ~ Flow ~ 1
+W55.6053-P_14 ~ 6053-P_14 ~ Flow ~ 1
+W56.6082-P_14 ~ 6082-P_14 ~ Flow ~ 1
+W57.6086-P_14 ~ 6086-P_14 ~ Flow ~ 1
+W58.6143-P_14 ~ 6143-P_14 ~ Flow ~ 1
+W59.6206-P_14 ~ 6206-P_14 ~ Flow ~ 1
+W6.5569-P_13 ~ 5569-P_13 ~ Flow ~ 1
+W60.6217-P_14 ~ 6217-P_14 ~ Flow ~ 1
+W61.6259-P_14 ~ 6259-P_14 ~ Flow ~ 1
+W62.6287-P_15 ~ 6287-P_15 ~ Flow ~ 1
+W63.6334-P_15 ~ 6334-P_15 ~ Flow ~ 1
+W64.6349-P_15 ~ 6349-P_15 ~ Flow ~ 1
+W65.6353-P_15 ~ 6353-P_15 ~ Flow ~ 1
+W66.6385-P_15 ~ 6385-P_15 ~ Flow ~ 1
+W67.HRIII_10401 ~ HRIII_10401 ~ Flow ~ 1
+W68.HRIII_4644 ~ HRIII_4644 ~ Flow ~ 1
+W69.HRIII_4898 ~ HRIII_4898 ~ Flow ~ 1
+W7.5592-P_13 ~ 5592-P_13 ~ Flow ~ 1
+W70.HRIII_5227 ~ HRIII_5227 ~ Flow ~ 1
+W71.HRIII_5304 ~ HRIII_5304 ~ Flow ~ 1
+W72.HRIII_7623 ~ HRIII_7623 ~ Flow ~ 1
+W73.HRIII_7636 ~ HRIII_7636 ~ Flow ~ 1
+W74.HRIII_7690 ~ HRIII_7690 ~ Flow ~ 1
+W75.HRIII_7780 ~ HRIII_7780 ~ Flow ~ 1
+W76.HRIII_7862 ~ HRIII_7862 ~ Flow ~ 1
+W77.HRIII_8057 ~ HRIII_8057 ~ Flow ~ 1
+W78.HRIII_8087 ~ HRIII_8087 ~ Flow ~ 1
+W79.HRIII_8117 ~ HRIII_8117 ~ Flow ~ 1
+W8.5599-P_13 ~ 5599-P_13 ~ Flow ~ 1
+W80.HRIII_8227 ~ HRIII_8227 ~ Flow ~ 1
+W81.HRIII_8228 ~ HRIII_8228 ~ Flow ~ 1
+W82.HRIII_8749 ~ HRIII_8749 ~ Flow ~ 1
+W83.HRIII_8839 ~ HRIII_8839 ~ Flow ~ 1
+W84.HRIII_9215 ~ HRIII_9215 ~ Flow ~ 1
+W9.5600-P_13 ~ 5600-P_13 ~ Flow ~ 1

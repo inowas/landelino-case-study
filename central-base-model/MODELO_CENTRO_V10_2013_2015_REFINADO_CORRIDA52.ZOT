@@ -1,0 +1,1746 @@
+
+ ZONEBUDGET version 2.00                 
+ Program to compute a flow budget for subregions of a model using
+ cell-by-cell flow data from the USGS Modular Ground-Water Flow Model.
+ 
+  The cell-by-cell budget file is:
+ E:\Documents and Settings\tmartins\My Documents\Projectos\SRHE Pernambuco\Mode
+ lo_Centro_VMF\Modelo_Centro_v10_2013_2015_refinado\Corrida_52ipoj\Modelo_Centr
+ o_v10_2013_2015_refinado_corrida52.BGT                                        
+                       
+ 
+   7 layers       145 rows        74 columns
+ 
+ Zone Budget - BATCH                                                             
+ 
+  The zone file is:
+ E:\DOCUMENTS AND SETTINGS\TMARTINS\MY DOCUMENTS\PROJECTOS\SRHE PERNAMBUCO\MODE
+ LO_CENTRO_VMF\MODELO_CENTRO_V10_2013_2015_REFINADO\CORRIDA_52IPOJ\MODELO_CENTR
+ O_V10_2013_2015_REFINADO_CORRIDA52.ZBI                                        
+                       
+ 
+ Zone Array for layer  1 will be read from the Zone File
+ Zone Array for layer  1 will be read using format:  (40I3)             
+ -----------------------------------------------------------------------
+ 
+ Zone Array for layer  2 will be read from the Zone File
+ Zone Array for layer  2 will be read using format:  (40I3)             
+ -----------------------------------------------------------------------
+ 
+ Zone Array for layer  3 will be read from the Zone File
+ Zone Array for layer  3 will be read using format:  (40I3)             
+ -----------------------------------------------------------------------
+ 
+ Zone Array for layer  4 will be read from the Zone File
+ Zone Array for layer  4 will be read using format:  (40I3)             
+ -----------------------------------------------------------------------
+ 
+ Zone Array for layer  5 will be read from the Zone File
+ Zone Array for layer  5 will be read using format:  (40I3)             
+ -----------------------------------------------------------------------
+ 
+ Zone Array for layer  6 will be read from the Zone File
+ Zone Array for layer  6 will be read using format:  (40I3)             
+ -----------------------------------------------------------------------
+ 
+ Zone Array for layer  7 will be read from the Zone File
+ Zone Array for layer  7 will be read using format:  (40I3)             
+ -----------------------------------------------------------------------
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone  8 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    64329.    
+                          RECHARGE =    69365.    
+                     Zone  9 to  8 =    7444.6    
+                     Zone 19 to  8 =    12531.    
+                     Zone 21 to  8 =    2.3386    
+                     Zone 23 to  8 =    401.37    
+                     Zone 26 to  8 =    3292.8    
+                     Zone 30 to  8 =    130.87    
+                     Zone 40 to  8 =    114.67    
+                     Zone 43 to  8 =    325.54    
+ 
+                          Total IN =   0.15794E+06
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    10169.    
+                     RIVER LEAKAGE =    89505.    
+                          RECHARGE =    0.0000    
+                     Zone  8 to  9 =    31526.    
+                     Zone  8 to 19 =    12359.    
+                     Zone  8 to 21 =   0.16628    
+                     Zone  8 to 23 =    5.4117    
+                     Zone  8 to 26 =    1076.6    
+                     Zone  8 to 30 =    27.740    
+                     Zone  8 to 40 =    391.26    
+                     Zone  8 to 43 =    12877.    
+ 
+                         Total OUT =   0.15794E+06
+ 
+                          IN - OUT =  -0.75307E-01
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone  9 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone  8 to  9 =    31526.    
+                     Zone 14 to  9 =    664.19    
+                     Zone 19 to  9 =    67.646    
+                     Zone 22 to  9 =   0.80909    
+                     Zone 24 to  9 =    19.816    
+                     Zone 25 to  9 =    6064.1    
+                     Zone 27 to  9 =    386.85    
+                     Zone 31 to  9 =    2.5180    
+                     Zone 40 to  9 =    182.28    
+                     Zone 41 to  9 =   0.58644    
+                     Zone 44 to  9 =    9.3218    
+ 
+                          Total IN =    38924.    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    210.94    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone  9 to  8 =    7444.6    
+                     Zone  9 to 14 =    726.16    
+                     Zone  9 to 19 =    370.65    
+                     Zone  9 to 22 =   0.17670    
+                     Zone  9 to 24 =   0.17715    
+                     Zone  9 to 25 =    29945.    
+                     Zone  9 to 27 =    3.2123    
+                     Zone  9 to 31 =    0.0000    
+                     Zone  9 to 40 =    0.0000    
+                     Zone  9 to 41 =    73.719    
+                     Zone  9 to 44 =    149.86    
+ 
+                         Total OUT =    38924.    
+ 
+                          IN - OUT =   0.92867E-02
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 10 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 11 to 10 =    511.76    
+                     Zone 35 to 10 =    13644.    
+                     Zone 36 to 10 =    29.887    
+ 
+                          Total IN =    14185.    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    548.72    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 10 to 11 =    13081.    
+                     Zone 10 to 35 =    550.00    
+                     Zone 10 to 36 =    5.4054    
+ 
+                         Total OUT =    14185.    
+ 
+                          IN - OUT =  -0.50608E-05
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 11 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 10 to 11 =    13081.    
+                     Zone 12 to 11 =    178.84    
+                     Zone 37 to 11 =    41.487    
+ 
+                          Total IN =    13302.    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    814.53    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 11 to 10 =    511.76    
+                     Zone 11 to 12 =    11947.    
+                     Zone 11 to 37 =    28.569    
+ 
+                         Total OUT =    13302.    
+ 
+                          IN - OUT =  -0.22693E-04
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 12 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 11 to 12 =    11947.    
+                     Zone 13 to 12 =    185.12    
+                     Zone 38 to 12 =    29.412    
+ 
+                          Total IN =    12161.    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    9138.2    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 12 to 11 =    178.84    
+                     Zone 12 to 13 =    242.89    
+                     Zone 12 to 38 =    2601.4    
+ 
+                         Total OUT =    12161.    
+ 
+                          IN - OUT =  -0.53419E-05
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 13 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 12 to 13 =    242.89    
+                     Zone 39 to 13 =    3.3628    
+ 
+                          Total IN =    246.26    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 13 to 12 =    185.12    
+                     Zone 13 to 39 =    61.138    
+ 
+                         Total OUT =    246.26    
+ 
+                          IN - OUT =  -0.19447E-04
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 14 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone  9 to 14 =    726.16    
+                     Zone 15 to 14 =    4150.1    
+                     Zone 19 to 14 =    3075.9    
+                     Zone 22 to 14 =    800.66    
+                     Zone 24 to 14 =    7736.8    
+                     Zone 25 to 14 =    179.24    
+                     Zone 28 to 14 =    11.699    
+                     Zone 36 to 14 =    2.7955    
+                     Zone 41 to 14 =    43739.    
+                     Zone 45 to 14 =   0.60784    
+ 
+                          Total IN =    60424.    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    2400.8    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 14 to  9 =    664.19    
+                     Zone 14 to 15 =    53163.    
+                     Zone 14 to 19 =    3075.7    
+                     Zone 14 to 22 =    0.0000    
+                     Zone 14 to 24 =    7.4373    
+                     Zone 14 to 25 =    218.04    
+                     Zone 14 to 28 =    27.479    
+                     Zone 14 to 36 =    11.791    
+                     Zone 14 to 41 =    721.92    
+                     Zone 14 to 45 =    133.08    
+ 
+                         Total OUT =    60424.    
+ 
+                          IN - OUT =  -0.83404E-03
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 15 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 14 to 15 =    53163.    
+                     Zone 16 to 15 =    2655.7    
+                     Zone 25 to 15 =    27619.    
+                     Zone 29 to 15 =    597.86    
+                     Zone 37 to 15 =    8.6794    
+                     Zone 42 to 15 =    438.65    
+                     Zone 46 to 15 =    1.9711    
+ 
+                          Total IN =    84485.    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    3977.5    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 15 to 14 =    4150.1    
+                     Zone 15 to 16 =    71464.    
+                     Zone 15 to 25 =    2914.4    
+                     Zone 15 to 29 =    960.29    
+                     Zone 15 to 37 =    50.453    
+                     Zone 15 to 42 =    905.46    
+                     Zone 15 to 46 =    63.169    
+ 
+                         Total OUT =    84485.    
+ 
+                          IN - OUT =  -0.22329E-02
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 16 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 15 to 16 =    71464.    
+                     Zone 17 to 16 =    9065.6    
+                     Zone 29 to 16 =    2839.4    
+                     Zone 32 to 16 =    870.63    
+                     Zone 38 to 16 =    1565.8    
+                     Zone 42 to 16 =    23156.    
+                     Zone 47 to 16 =    25250.    
+ 
+                          Total IN =   0.13421E+06
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =   0.11999E+06
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 16 to 15 =    2655.7    
+                     Zone 16 to 17 =    7018.9    
+                     Zone 16 to 29 =    950.10    
+                     Zone 16 to 32 =    936.55    
+                     Zone 16 to 38 =    252.03    
+                     Zone 16 to 42 =    233.17    
+                     Zone 16 to 47 =    2171.5    
+ 
+                         Total OUT =   0.13421E+06
+ 
+                          IN - OUT =  -0.40571E-01
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 17 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 16 to 17 =    7018.9    
+                     Zone 33 to 17 =    452.72    
+                     Zone 39 to 17 =    15.266    
+                     Zone 48 to 17 =    6196.6    
+ 
+                          Total IN =    13683.    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 17 to 16 =    9065.6    
+                     Zone 17 to 33 =    302.07    
+                     Zone 17 to 39 =    9.9535    
+                     Zone 17 to 48 =    4306.3    
+ 
+                         Total OUT =    13684.    
+ 
+                          IN - OUT =  -0.40058    
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 18 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    16653.    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    9.5890    
+                     Zone 43 to 18 =    49748.    
+ 
+                          Total IN =    66411.    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    49758.    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 18 to 43 =    16653.    
+ 
+                         Total OUT =    66411.    
+ 
+                          IN - OUT =   0.59605E-06
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 19 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone  8 to 19 =    12359.    
+                     Zone  9 to 19 =    370.65    
+                     Zone 14 to 19 =    3075.7    
+                     Zone 22 to 19 =   0.17450    
+                     Zone 24 to 19 =    114.93    
+                     Zone 25 to 19 =    2303.5    
+                     Zone 27 to 19 =    370.28    
+                     Zone 28 to 19 =    335.08    
+                     Zone 31 to 19 =    53.251    
+                     Zone 44 to 19 =    0.0000    
+ 
+                          Total IN =    18983.    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    298.32    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 19 to  8 =    12531.    
+                     Zone 19 to  9 =    67.646    
+                     Zone 19 to 14 =    3075.9    
+                     Zone 19 to 22 =    0.0000    
+                     Zone 19 to 24 =    4.5080    
+                     Zone 19 to 25 =    2795.3    
+                     Zone 19 to 27 =    185.79    
+                     Zone 19 to 28 =    12.368    
+                     Zone 19 to 31 =    10.078    
+                     Zone 19 to 44 =    1.8329    
+ 
+                         Total OUT =    18983.    
+ 
+                          IN - OUT =   0.33070E-03
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 20 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    7401.3    
+                     Zone 21 to 20 =    0.0000    
+ 
+                          Total IN =    7401.3    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    226.24    
+                     RIVER LEAKAGE =    80.244    
+                          RECHARGE =    0.0000    
+                     Zone 20 to 21 =    7094.8    
+ 
+                         Total OUT =    7401.3    
+ 
+                          IN - OUT =  -0.12397E-01
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 21 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    6532.9    
+                     Zone  8 to 21 =   0.16628    
+                     Zone 20 to 21 =    7094.8    
+                     Zone 22 to 21 =    0.0000    
+                     Zone 23 to 21 =   0.22087    
+                     Zone 40 to 21 =    5.3233    
+ 
+                          Total IN =    13633.    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    10.827    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 21 to  8 =    2.3386    
+                     Zone 21 to 20 =    0.0000    
+                     Zone 21 to 22 =    13616.    
+                     Zone 21 to 23 =   0.53117    
+                     Zone 21 to 40 =    4.0107    
+ 
+                         Total OUT =    13633.    
+ 
+                          IN - OUT =   0.12990E-01
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 22 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone  9 to 22 =   0.17670    
+                     Zone 14 to 22 =    0.0000    
+                     Zone 19 to 22 =    0.0000    
+                     Zone 21 to 22 =    13616.    
+                     Zone 24 to 22 =   0.79368E-01
+                     Zone 25 to 22 =    0.0000    
+                     Zone 41 to 22 =    1.4062    
+ 
+                          Total IN =    13617.    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    5.9779    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 22 to  9 =   0.80909    
+                     Zone 22 to 14 =    800.66    
+                     Zone 22 to 19 =   0.17450    
+                     Zone 22 to 21 =    0.0000    
+                     Zone 22 to 24 =   0.22729E-01
+                     Zone 22 to 25 =    12808.    
+                     Zone 22 to 41 =    1.9728    
+ 
+                         Total OUT =    13617.    
+ 
+                          IN - OUT =   0.46667E-04
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 23 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    8734.7    
+                     Zone  8 to 23 =    5.4117    
+                     Zone 21 to 23 =   0.53117    
+                     Zone 24 to 23 =    5.0545    
+                     Zone 26 to 23 =    251.17    
+                     Zone 30 to 23 =    14.685    
+                     Zone 40 to 23 =    0.0000    
+ 
+                          Total IN =    9011.5    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    11.428    
+                     RIVER LEAKAGE =    406.06    
+                          RECHARGE =    0.0000    
+                     Zone 23 to  8 =    401.37    
+                     Zone 23 to 21 =   0.22087    
+                     Zone 23 to 24 =    7897.6    
+                     Zone 23 to 26 =    88.456    
+                     Zone 23 to 30 =    101.97    
+                     Zone 23 to 40 =    104.42    
+ 
+                         Total OUT =    9011.5    
+ 
+                          IN - OUT =  -0.52287E-04
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 24 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone  9 to 24 =   0.17715    
+                     Zone 14 to 24 =    7.4373    
+                     Zone 19 to 24 =    4.5080    
+                     Zone 22 to 24 =   0.22729E-01
+                     Zone 23 to 24 =    7897.6    
+                     Zone 27 to 24 =    29.632    
+                     Zone 31 to 24 =    4.6208    
+                     Zone 41 to 24 =    0.0000    
+ 
+                          Total IN =    7944.0    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    1.9993    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 24 to  9 =    19.816    
+                     Zone 24 to 14 =    7736.8    
+                     Zone 24 to 19 =    114.93    
+                     Zone 24 to 22 =   0.79368E-01
+                     Zone 24 to 23 =    5.0545    
+                     Zone 24 to 27 =    16.300    
+                     Zone 24 to 31 =    25.984    
+                     Zone 24 to 41 =    22.968    
+ 
+                         Total OUT =    7944.0    
+ 
+                          IN - OUT =   0.25103E-03
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 25 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone  9 to 25 =    29945.    
+                     Zone 14 to 25 =    218.04    
+                     Zone 15 to 25 =    2914.4    
+                     Zone 19 to 25 =    2795.3    
+                     Zone 22 to 25 =    12808.    
+                     Zone 27 to 25 =    19388.    
+                     Zone 28 to 25 =    255.46    
+                     Zone 29 to 25 =    226.34    
+                     Zone 41 to 25 =    608.30    
+                     Zone 42 to 25 =    1440.1    
+                     Zone 45 to 25 =    116.49    
+ 
+                          Total IN =    70715.    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    957.18    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 25 to  9 =    6064.1    
+                     Zone 25 to 14 =    179.24    
+                     Zone 25 to 15 =    27619.    
+                     Zone 25 to 19 =    2303.5    
+                     Zone 25 to 22 =    0.0000    
+                     Zone 25 to 27 =    5622.0    
+                     Zone 25 to 28 =    243.50    
+                     Zone 25 to 29 =    1777.7    
+                     Zone 25 to 41 =    0.0000    
+                     Zone 25 to 42 =    24011.    
+                     Zone 25 to 45 =    1937.5    
+ 
+                         Total OUT =    70715.    
+ 
+                          IN - OUT =   0.14387E-03
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 26 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    1063.6    
+                          RECHARGE =    41720.    
+                     Zone  8 to 26 =    1076.6    
+                     Zone 23 to 26 =    88.456    
+                     Zone 27 to 26 =    7690.5    
+                     Zone 30 to 26 =    89.799    
+                     Zone 43 to 26 =    0.0000    
+ 
+                          Total IN =    51729.    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    654.07    
+                     RIVER LEAKAGE =    24375.    
+                          RECHARGE =    0.0000    
+                     Zone 26 to  8 =    3292.8    
+                     Zone 26 to 23 =    251.17    
+                     Zone 26 to 27 =    22397.    
+                     Zone 26 to 30 =    237.42    
+                     Zone 26 to 43 =    521.62    
+ 
+                         Total OUT =    51729.    
+ 
+                          IN - OUT =   0.10516E-02
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 27 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone  9 to 27 =    3.2123    
+                     Zone 19 to 27 =    185.79    
+                     Zone 24 to 27 =    16.300    
+                     Zone 25 to 27 =    5622.0    
+                     Zone 26 to 27 =    22397.    
+                     Zone 31 to 27 =    26.144    
+                     Zone 44 to 27 =    0.0000    
+ 
+                          Total IN =    28251.    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    299.10    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 27 to  9 =    386.85    
+                     Zone 27 to 19 =    370.28    
+                     Zone 27 to 24 =    29.632    
+                     Zone 27 to 25 =    19388.    
+                     Zone 27 to 26 =    7690.5    
+                     Zone 27 to 31 =    55.051    
+                     Zone 27 to 44 =    31.525    
+ 
+                         Total OUT =    28251.    
+ 
+                          IN - OUT =  -0.16579E-03
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 28 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 14 to 28 =    27.479    
+                     Zone 19 to 28 =    12.368    
+                     Zone 25 to 28 =    243.50    
+                     Zone 29 to 28 =    2882.2    
+                     Zone 31 to 28 =    5330.9    
+                     Zone 45 to 28 =    0.0000    
+ 
+                          Total IN =    8496.4    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    1.3836    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 28 to 14 =    11.699    
+                     Zone 28 to 19 =    335.08    
+                     Zone 28 to 25 =    255.46    
+                     Zone 28 to 29 =    5007.0    
+                     Zone 28 to 31 =    2647.0    
+                     Zone 28 to 45 =    238.72    
+ 
+                         Total OUT =    8496.4    
+ 
+                          IN - OUT =  -0.59199E-04
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 29 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 15 to 29 =    960.29    
+                     Zone 16 to 29 =    950.10    
+                     Zone 25 to 29 =    1777.7    
+                     Zone 28 to 29 =    5007.0    
+                     Zone 32 to 29 =    820.87    
+                     Zone 42 to 29 =    25.457    
+                     Zone 46 to 29 =    0.0000    
+ 
+                          Total IN =    9541.4    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    1633.2    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 29 to 15 =    597.86    
+                     Zone 29 to 16 =    2839.4    
+                     Zone 29 to 25 =    226.34    
+                     Zone 29 to 28 =    2882.2    
+                     Zone 29 to 32 =    1324.5    
+                     Zone 29 to 42 =    0.0000    
+                     Zone 29 to 46 =    37.822    
+ 
+                         Total OUT =    9541.4    
+ 
+                          IN - OUT =  -0.63512E-04
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 30 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    51.950    
+                          RECHARGE =    7617.7    
+                     Zone  8 to 30 =    27.740    
+                     Zone 23 to 30 =    101.97    
+                     Zone 26 to 30 =    237.42    
+                     Zone 31 to 30 =    2714.7    
+                     Zone 43 to 30 =    0.0000    
+ 
+                          Total IN =    10751.    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    5.0074    
+                     RIVER LEAKAGE =    4976.4    
+                          RECHARGE =    0.0000    
+                     Zone 30 to  8 =    130.87    
+                     Zone 30 to 23 =    14.685    
+                     Zone 30 to 26 =    89.799    
+                     Zone 30 to 31 =    5426.0    
+                     Zone 30 to 43 =    108.74    
+ 
+                         Total OUT =    10751.    
+ 
+                          IN - OUT =  -0.14758E-03
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 31 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone  9 to 31 =    0.0000    
+                     Zone 19 to 31 =    10.078    
+                     Zone 24 to 31 =    25.984    
+                     Zone 27 to 31 =    55.051    
+                     Zone 28 to 31 =    2647.0    
+                     Zone 30 to 31 =    5426.0    
+                     Zone 44 to 31 =    0.0000    
+ 
+                          Total IN =    8164.1    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    1.3692    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 31 to  9 =    2.5180    
+                     Zone 31 to 19 =    53.251    
+                     Zone 31 to 24 =    4.6208    
+                     Zone 31 to 27 =    26.144    
+                     Zone 31 to 28 =    5330.9    
+                     Zone 31 to 30 =    2714.7    
+                     Zone 31 to 44 =    30.676    
+ 
+                         Total OUT =    8164.1    
+ 
+                          IN - OUT =   0.42380E-04
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 32 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 16 to 32 =    936.55    
+                     Zone 29 to 32 =    1324.5    
+                     Zone 33 to 32 =    101.05    
+                     Zone 47 to 32 =    0.0000    
+ 
+                          Total IN =    2362.1    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    155.18    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 32 to 16 =    870.63    
+                     Zone 32 to 29 =    820.87    
+                     Zone 32 to 33 =    275.37    
+                     Zone 32 to 47 =    240.08    
+ 
+                         Total OUT =    2362.1    
+ 
+                          IN - OUT =   0.19401E-04
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 33 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 17 to 33 =    302.07    
+                     Zone 32 to 33 =    275.37    
+                     Zone 48 to 33 =    0.0000    
+ 
+                          Total IN =    577.43    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 33 to 17 =    452.72    
+                     Zone 33 to 32 =    101.05    
+                     Zone 33 to 48 =    23.669    
+ 
+                         Total OUT =    577.43    
+ 
+                          IN - OUT =  -0.43605E-04
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 34 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    76245.    
+                          RECHARGE =    27776.    
+                     Zone 35 to 34 =    1926.2    
+                     Zone 40 to 34 =    7894.7    
+                     Zone 43 to 34 =    24.301    
+ 
+                          Total IN =   0.11387E+06
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    21633.    
+                     RIVER LEAKAGE =    69808.    
+                          RECHARGE =    0.0000    
+                     Zone 34 to 35 =    19683.    
+                     Zone 34 to 40 =    2044.8    
+                     Zone 34 to 43 =    696.65    
+ 
+                         Total OUT =   0.11387E+06
+ 
+                          IN - OUT =  -0.92948E-03
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 35 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 10 to 35 =    550.00    
+                     Zone 34 to 35 =    19683.    
+                     Zone 36 to 35 =    80.315    
+                     Zone 41 to 35 =    61.720    
+                     Zone 44 to 35 =   0.66688E-01
+ 
+                          Total IN =    20376.    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    274.81    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 35 to 10 =    13644.    
+                     Zone 35 to 34 =    1926.2    
+                     Zone 35 to 36 =    4526.9    
+                     Zone 35 to 41 =    3.7473    
+                     Zone 35 to 44 =   0.13681    
+ 
+                         Total OUT =    20376.    
+ 
+                          IN - OUT =  -0.82388E-04
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 36 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 10 to 36 =    5.4054    
+                     Zone 14 to 36 =    11.791    
+                     Zone 35 to 36 =    4526.9    
+                     Zone 37 to 36 =    72.578    
+                     Zone 45 to 36 =   0.17554    
+ 
+                          Total IN =    4616.8    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    123.89    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 36 to 10 =    29.887    
+                     Zone 36 to 14 =    2.7955    
+                     Zone 36 to 35 =    80.315    
+                     Zone 36 to 37 =    4379.8    
+                     Zone 36 to 45 =   0.64410E-01
+ 
+                         Total OUT =    4616.8    
+ 
+                          IN - OUT =  -0.60774E-05
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 37 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 11 to 37 =    28.569    
+                     Zone 15 to 37 =    50.453    
+                     Zone 36 to 37 =    4379.8    
+                     Zone 38 to 37 =    49.491    
+                     Zone 46 to 37 =   0.27615    
+ 
+                          Total IN =    4508.6    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    214.19    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 37 to 11 =    41.487    
+                     Zone 37 to 15 =    8.6794    
+                     Zone 37 to 36 =    72.578    
+                     Zone 37 to 38 =    4171.6    
+                     Zone 37 to 46 =   0.58479E-01
+ 
+                         Total OUT =    4508.6    
+ 
+                          IN - OUT =  -0.14023E-04
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 38 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 12 to 38 =    2601.4    
+                     Zone 16 to 38 =    252.03    
+                     Zone 37 to 38 =    4171.6    
+                     Zone 39 to 38 =    111.83    
+                     Zone 47 to 38 =    1010.9    
+ 
+                          Total IN =    8147.9    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    6301.4    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 38 to 12 =    29.412    
+                     Zone 38 to 16 =    1565.8    
+                     Zone 38 to 37 =    49.491    
+                     Zone 38 to 39 =    29.071    
+                     Zone 38 to 47 =    172.69    
+ 
+                         Total OUT =    8147.9    
+ 
+                          IN - OUT =  -0.44126E-03
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 39 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 13 to 39 =    61.138    
+                     Zone 17 to 39 =    9.9535    
+                     Zone 38 to 39 =    29.071    
+                     Zone 48 to 39 =    38.421    
+ 
+                          Total IN =    138.58    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 39 to 13 =    3.3628    
+                     Zone 39 to 17 =    15.266    
+                     Zone 39 to 38 =    111.83    
+                     Zone 39 to 48 =    8.1254    
+ 
+                         Total OUT =    138.58    
+ 
+                          IN - OUT =  -0.12011E-03
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 40 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =   0.12074E+06
+                          RECHARGE =    19753.    
+                     Zone  8 to 40 =    391.26    
+                     Zone  9 to 40 =    0.0000    
+                     Zone 21 to 40 =    4.0107    
+                     Zone 23 to 40 =    104.42    
+                     Zone 34 to 40 =    2044.8    
+                     Zone 41 to 40 =    6968.1    
+                     Zone 43 to 40 =    0.0000    
+ 
+                          Total IN =   0.15001E+06
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    20290.    
+                     RIVER LEAKAGE =    30893.    
+                          RECHARGE =    0.0000    
+                     Zone 40 to  8 =    114.67    
+                     Zone 40 to  9 =    182.28    
+                     Zone 40 to 21 =    5.3233    
+                     Zone 40 to 23 =    0.0000    
+                     Zone 40 to 34 =    7894.7    
+                     Zone 40 to 41 =    52865.    
+                     Zone 40 to 43 =    37763.    
+ 
+                         Total OUT =   0.15001E+06
+ 
+                          IN - OUT =  -0.32119E-01
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 41 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone  9 to 41 =    73.719    
+                     Zone 14 to 41 =    721.92    
+                     Zone 22 to 41 =    1.9728    
+                     Zone 24 to 41 =    22.968    
+                     Zone 25 to 41 =    0.0000    
+                     Zone 35 to 41 =    3.7473    
+                     Zone 40 to 41 =    52865.    
+                     Zone 44 to 41 =    0.0000    
+ 
+                          Total IN =    53689.    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    1199.6    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 41 to  9 =   0.58644    
+                     Zone 41 to 14 =    43739.    
+                     Zone 41 to 22 =    1.4062    
+                     Zone 41 to 24 =    0.0000    
+                     Zone 41 to 25 =    608.30    
+                     Zone 41 to 35 =    61.720    
+                     Zone 41 to 40 =    6968.1    
+                     Zone 41 to 44 =    1109.9    
+ 
+                         Total OUT =    53689.    
+ 
+                          IN - OUT =  -0.46314E-02
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 42 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 15 to 42 =    905.46    
+                     Zone 16 to 42 =    233.17    
+                     Zone 25 to 42 =    24011.    
+                     Zone 29 to 42 =    0.0000    
+                     Zone 46 to 42 =    2.9124    
+ 
+                          Total IN =    25153.    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    0.0000    
+                             WELLS =    54.000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 42 to 15 =    438.65    
+                     Zone 42 to 16 =    23156.    
+                     Zone 42 to 25 =    1440.1    
+                     Zone 42 to 29 =    25.457    
+                     Zone 42 to 46 =    39.120    
+ 
+                         Total OUT =    25153.    
+ 
+                          IN - OUT =  -0.11985E-02
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 43 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    1.1867    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    46.849    
+                     Zone  8 to 43 =    12877.    
+                     Zone 18 to 43 =    16653.    
+                     Zone 26 to 43 =    521.62    
+                     Zone 30 to 43 =    108.74    
+                     Zone 34 to 43 =    696.65    
+                     Zone 40 to 43 =    37763.    
+                     Zone 44 to 43 =    5156.3    
+ 
+                          Total IN =    73824.    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =   0.84198E-02
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 43 to  8 =    325.54    
+                     Zone 43 to 18 =    49748.    
+                     Zone 43 to 26 =    0.0000    
+                     Zone 43 to 30 =    0.0000    
+                     Zone 43 to 34 =    24.301    
+                     Zone 43 to 40 =    0.0000    
+                     Zone 43 to 44 =    23726.    
+ 
+                         Total OUT =    73824.    
+ 
+                          IN - OUT =  -0.55354E-03
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 44 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =   0.45427    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone  9 to 44 =    149.86    
+                     Zone 19 to 44 =    1.8329    
+                     Zone 27 to 44 =    31.525    
+                     Zone 31 to 44 =    30.676    
+                     Zone 35 to 44 =   0.13681    
+                     Zone 41 to 44 =    1109.9    
+                     Zone 43 to 44 =    23726.    
+                     Zone 45 to 44 =    4435.8    
+ 
+                          Total IN =    29486.    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =   0.27724E-01
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 44 to  9 =    9.3218    
+                     Zone 44 to 19 =    0.0000    
+                     Zone 44 to 27 =    0.0000    
+                     Zone 44 to 31 =    0.0000    
+                     Zone 44 to 35 =   0.66688E-01
+                     Zone 44 to 41 =    0.0000    
+                     Zone 44 to 43 =    5156.3    
+                     Zone 44 to 45 =    24320.    
+ 
+                         Total OUT =    29486.    
+ 
+                          IN - OUT =  -0.10577E-03
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 45 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    1.7441    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 14 to 45 =    133.08    
+                     Zone 25 to 45 =    1937.5    
+                     Zone 28 to 45 =    238.72    
+                     Zone 36 to 45 =   0.64410E-01
+                     Zone 44 to 45 =    24320.    
+                     Zone 46 to 45 =    2501.8    
+ 
+                          Total IN =    29133.    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =   0.69898    
+                             WELLS =    3.2887    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 45 to 14 =   0.60784    
+                     Zone 45 to 25 =    116.49    
+                     Zone 45 to 28 =    0.0000    
+                     Zone 45 to 36 =   0.17554    
+                     Zone 45 to 44 =    4435.8    
+                     Zone 45 to 46 =    24576.    
+ 
+                         Total OUT =    29133.    
+ 
+                          IN - OUT =  -0.39199E-03
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 46 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =   0.14850    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 15 to 46 =    63.169    
+                     Zone 29 to 46 =    37.822    
+                     Zone 37 to 46 =   0.58479E-01
+                     Zone 42 to 46 =    39.120    
+                     Zone 45 to 46 =    24576.    
+                     Zone 47 to 46 =    2433.0    
+ 
+                          Total IN =    27150.    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =   0.16769E-01
+                             WELLS =    1.7254    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 46 to 15 =    1.9711    
+                     Zone 46 to 29 =    0.0000    
+                     Zone 46 to 37 =   0.27615    
+                     Zone 46 to 42 =    2.9124    
+                     Zone 46 to 45 =    2501.8    
+                     Zone 46 to 47 =    24641.    
+ 
+                         Total OUT =    27150.    
+ 
+                          IN - OUT =  -0.27357E-03
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 47 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    76.159    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 16 to 47 =    2171.5    
+                     Zone 32 to 47 =    240.08    
+                     Zone 38 to 47 =    172.69    
+                     Zone 46 to 47 =    24641.    
+                     Zone 48 to 47 =    2297.7    
+ 
+                          Total IN =    29599.    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    56.904    
+                             WELLS =    267.99    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 47 to 16 =    25250.    
+                     Zone 47 to 32 =    0.0000    
+                     Zone 47 to 38 =    1010.9    
+                     Zone 47 to 46 =    2433.0    
+                     Zone 47 to 48 =    579.76    
+ 
+                         Total OUT =    29599.    
+ 
+                          IN - OUT =  -0.95176E-02
+ 
+               Percent Discrepancy =                0.00
+1
+ Zone Budget - BATCH                                                             
+ 
+     Flow Budget for Zone 48 at Time Step    1 of Stress Period    1
+     ---------------------------------------------------------------
+ 
+                       Budget Term     Flow (L**3/T)
+                       -----------------------------
+
+             IN:
+             ---
+                     CONSTANT HEAD =    4915.6    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 17 to 48 =    4306.3    
+                     Zone 33 to 48 =    23.669    
+                     Zone 39 to 48 =    8.1254    
+                     Zone 47 to 48 =    579.76    
+ 
+                          Total IN =    9833.4    
+ 
+             OUT:
+             ----
+                     CONSTANT HEAD =    1301.1    
+                             WELLS =    0.0000    
+                     RIVER LEAKAGE =    0.0000    
+                          RECHARGE =    0.0000    
+                     Zone 48 to 17 =    6196.6    
+                     Zone 48 to 33 =    0.0000    
+                     Zone 48 to 39 =    38.421    
+                     Zone 48 to 47 =    2297.7    
+ 
+                         Total OUT =    9833.8    
+ 
+                          IN - OUT =  -0.30760    
+ 
+               Percent Discrepancy =                0.00

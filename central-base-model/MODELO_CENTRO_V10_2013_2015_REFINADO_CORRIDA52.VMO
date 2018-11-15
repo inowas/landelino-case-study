@@ -1,0 +1,1934 @@
+Version='4.6.0.163'
+WellCount=84
+  Well='5444-P_13'
+    X=     13402.03785
+    Y=     19667.41321
+    Min_Z=     -2369.30005
+    Max_Z=     0.676559985
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.3568668
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -58.81366423
+      end Species 'Head'
+    end Point '1'
+  end Well '5444-P_13'
+  Well='5479-P_13'
+    X=     13765.00359
+    Y=     24703.57395
+    Min_Z=      -2486.8999
+    Max_Z=      1.23989999
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.2602955
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -81.76737308
+      end Species 'Head'
+    end Point '1'
+  end Well '5479-P_13'
+  Well='5491-P_13'
+    X=     9915.838614
+    Y=     17453.37416
+    Min_Z=     -1219.69995
+    Max_Z=          12.691
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.3452596
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     -50.9133655
+      end Species 'Head'
+    end Point '1'
+  end Well '5491-P_13'
+  Well='5528-P_13'
+    X=     11288.85374
+    Y=     23472.55126
+    Min_Z=     -1553.09998
+    Max_Z=     11.24793875
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=     11.24793875
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     11.39172923
+      end Species 'Head'
+    end Point '1'
+  end Well '5528-P_13'
+  Well='5567-P_13'
+    X=     12966.86344
+    Y=      8229.08582
+    Min_Z=     -2207.30005
+    Max_Z=      2.82929993
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.1330287
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -18.98471062
+      end Species 'Head'
+    end Point '1'
+  end Well '5567-P_13'
+  Well='5569-P_13'
+    X=     13195.83109
+    Y=     18475.06602
+    Min_Z=     -2326.30005
+    Max_Z=      1.25010002
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.3095274
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -48.96205209
+      end Species 'Head'
+    end Point '1'
+  end Well '5569-P_13'
+  Well='5592-P_13'
+    X=     14011.98711
+    Y=     17765.86247
+    Min_Z=      -2584.1001
+    Max_Z=     0.991550028
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.3638021
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -5.431445901
+      end Species 'Head'
+    end Point '1'
+  end Well '5592-P_13'
+  Well='5599-P_13'
+    X=     6801.589814
+    Y=     12833.35201
+    Min_Z=     -631.969971
+    Max_Z=      10.6680002
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -183.8928031
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     5.218178717
+      end Species 'Head'
+    end Point '1'
+  end Well '5599-P_13'
+  Well='5600-P_13'
+    X=     11160.91611
+    Y=     20704.19408
+    Min_Z=     -1502.19995
+    Max_Z=      8.52680016
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -0.913767699
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     2.797183094
+      end Species 'Head'
+    end Point '1'
+  end Well '5600-P_13'
+  Well='5633-P_13'
+    X=     13508.45307
+    Y=      1321.13148
+    Min_Z=      -2465.1001
+    Max_Z=      2.35080004
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -184.4334121
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     34.37702058
+      end Species 'Head'
+    end Point '1'
+  end Well '5633-P_13'
+  Well='5634-P_13'
+    X=     13661.88769
+    Y=     1616.606254
+    Min_Z=      -2484.1001
+    Max_Z=          1.5819
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=      -192.80255
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -11.75673621
+      end Species 'Head'
+    end Point '1'
+  end Well '5634-P_13'
+  Well='5635-P_13'
+    X=     13632.70844
+    Y=     1616.084957
+    Min_Z=      -2484.1001
+    Max_Z=          1.5819
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=      -192.80255
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -6.756736212
+      end Species 'Head'
+    end Point '1'
+  end Well '5635-P_13'
+  Well='5636-P_13'
+    X=     13610.56358
+    Y=     1619.859445
+    Min_Z=      -2484.1001
+    Max_Z=          1.5819
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=      -192.80255
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -12.75673621
+      end Species 'Head'
+    end Point '1'
+  end Well '5636-P_13'
+  Well='5637-P_13'
+    X=     13502.48082
+    Y=     1778.113794
+    Min_Z=      -2465.1001
+    Max_Z=      2.35080004
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -191.3684537
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     2.629749119
+      end Species 'Head'
+    end Point '1'
+  end Well '5637-P_13'
+  Well='5645-P_13'
+    X=     13148.95986
+    Y=     20570.44043
+    Min_Z=     -2326.30005
+    Max_Z=      1.25010002
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.3860308
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -48.99246426
+      end Species 'Head'
+    end Point '1'
+  end Well '5645-P_13'
+  Well='5647-P_13'
+    X=     9067.722676
+    Y=     18085.98994
+    Min_Z=           -1129
+    Max_Z=      10.0710001
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.2794381
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -4.628610899
+      end Species 'Head'
+    end Point '1'
+  end Well '5647-P_13'
+  Well='5648-P_13'
+    X=     12956.11304
+    Y=     7976.582333
+    Min_Z=     -2207.30005
+    Max_Z=      2.82929993
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.1098309
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -20.04794076
+      end Species 'Head'
+    end Point '1'
+  end Well '5648-P_13'
+  Well='5728-P_13'
+    X=     13835.57678
+    Y=     27429.11949
+    Min_Z=           -2491
+    Max_Z=      0.80151999
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.2810056
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -67.94173586
+      end Species 'Head'
+    end Point '1'
+  end Well '5728-P_13'
+  Well='5736-P_13'
+    X=     12671.32553
+    Y=      23385.7206
+    Min_Z=      -2140.1001
+    Max_Z=      1.35590005
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=     -34.5800544
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     7.423463277
+      end Species 'Head'
+    end Point '1'
+  end Well '5736-P_13'
+  Well='5738-P_13'
+    X=     13658.85747
+    Y=     24755.81593
+    Min_Z=      -2484.1001
+    Max_Z=          1.5819
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -48.24286297
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -90.62651304
+      end Species 'Head'
+    end Point '1'
+  end Well '5738-P_13'
+  Well='5740-P_13'
+    X=     13585.98254
+    Y=     1623.242349
+    Min_Z=      -2465.1001
+    Max_Z=      2.35080004
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -191.3684537
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     10.62974912
+      end Species 'Head'
+    end Point '1'
+  end Well '5740-P_13'
+  Well='5741-P_13'
+    X=     13621.82733
+    Y=     1572.571615
+    Min_Z=      -2484.1001
+    Max_Z=          1.5819
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=      -192.80255
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     6.243263788
+      end Species 'Head'
+    end Point '1'
+  end Well '5741-P_13'
+  Well='5759-P_13'
+    X=     12011.23131
+    Y=     28343.47215
+    Min_Z=     -1912.40002
+    Max_Z=      7.36439991
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -182.4481242
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -68.22134093
+      end Species 'Head'
+    end Point '1'
+  end Well '5759-P_13'
+  Well='5782-P_13'
+    X=     9521.697605
+    Y=     8158.434975
+    Min_Z=     -1219.69995
+    Max_Z=          12.691
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=     11.91527771
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     13.33773302
+      end Species 'Head'
+    end Point '1'
+  end Well '5782-P_13'
+  Well='5783-P_13'
+    X=     4291.891885
+    Y=     25872.26152
+    Min_Z=     -495.549988
+    Max_Z=      20.5459995
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=     13.83386812
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     42.57212569
+      end Species 'Head'
+    end Point '1'
+  end Well '5783-P_13'
+  Well='5784-P_13'
+    X=      4293.99234
+    Y=     25916.40959
+    Min_Z=     -495.549988
+    Max_Z=     24.03735216
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=     24.03735216
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     47.44856433
+      end Species 'Head'
+    end Point '1'
+  end Well '5784-P_13'
+  Well='5786-P_13'
+    X=     5445.277479
+    Y=     5487.336225
+    Min_Z=     -572.820007
+    Max_Z=          12.651
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=     9.720091096
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     8.650702489
+      end Species 'Head'
+    end Point '1'
+  end Well '5786-P_13'
+  Well='5797-P_13'
+    X=     14096.43501
+    Y=     27464.27004
+    Min_Z=      -2584.1001
+    Max_Z=     0.991550028
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.3753224
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -63.51052027
+      end Species 'Head'
+    end Point '1'
+  end Well '5797-P_13'
+  Well='5800-P_13'
+    X=     14025.90855
+    Y=     27093.85167
+    Min_Z=      -2584.1001
+    Max_Z=     0.991550028
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.4180486
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     -75.1944194
+      end Species 'Head'
+    end Point '1'
+  end Well '5800-P_13'
+  Well='5813-P_13'
+    X=     12024.15368
+    Y=     21516.36101
+    Min_Z=     -1912.40002
+    Max_Z=      7.36439991
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.3125784
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     5.310072454
+      end Species 'Head'
+    end Point '1'
+  end Well '5813-P_13'
+  Well='5821-P_13'
+    X=     9536.774983
+    Y=     1112.719079
+    Min_Z=     -1219.69995
+    Max_Z=        19.35805
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=        19.35805
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     21.24534635
+      end Species 'Head'
+    end Point '1'
+  end Well '5821-P_13'
+  Well='5822-P_13'
+    X=     9643.593037
+    Y=     1189.072809
+    Min_Z=     -1219.69995
+    Max_Z=        19.35805
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=        19.35805
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     18.24534635
+      end Species 'Head'
+    end Point '1'
+  end Well '5822-P_13'
+  Well='5823-P_13'
+    X=     9537.715998
+    Y=     1681.226387
+    Min_Z=     -1219.69995
+    Max_Z=     12.94291949
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=     12.94291949
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     15.17596993
+      end Species 'Head'
+    end Point '1'
+  end Well '5823-P_13'
+  Well='5824-P_13'
+    X=       9591.2276
+    Y=     1690.140917
+    Min_Z=     -1219.69995
+    Max_Z=     12.94291949
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=     12.94291949
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     15.17596993
+      end Species 'Head'
+    end Point '1'
+  end Well '5824-P_13'
+  Well='5825-P_13'
+    X=     9621.492773
+    Y=     1632.397966
+    Min_Z=     -1219.69995
+    Max_Z=     12.94291949
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=     12.94291949
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     16.17596993
+      end Species 'Head'
+    end Point '1'
+  end Well '5825-P_13'
+  Well='5826-P_13'
+    X=     9456.642702
+    Y=     1532.043569
+    Min_Z=           -1129
+    Max_Z=      10.9539093
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=      10.9539093
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     9.518850888
+      end Species 'Head'
+    end Point '1'
+  end Well '5826-P_13'
+  Well='5841-P_13'
+    X=     12722.85842
+    Y=     10811.49798
+    Min_Z=      -2162.3999
+    Max_Z=      1.81529999
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.2490514
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -24.37396874
+      end Species 'Head'
+    end Point '1'
+  end Well '5841-P_13'
+  Well='5842-P_13'
+    X=     11219.34531
+    Y=     20209.10394
+    Min_Z=     -1553.09998
+    Max_Z=      8.44979954
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -3.513496118
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -2.926967481
+      end Species 'Head'
+    end Point '1'
+  end Well '5842-P_13'
+  Well='5846-P_13'
+    X=     7320.678593
+    Y=     14742.12129
+    Min_Z=     -688.830017
+    Max_Z=      8.70189953
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -191.3841459
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     8.442659235
+      end Species 'Head'
+    end Point '1'
+  end Well '5846-P_13'
+  Well='5851-P_13'
+    X=     11726.40994
+    Y=     26119.33559
+    Min_Z=     -1748.40002
+    Max_Z=      7.21049976
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.1701682
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -13.95762771
+      end Species 'Head'
+    end Point '1'
+  end Well '5851-P_13'
+  Well='5855-P_13'
+    X=     10332.41374
+    Y=     22435.36573
+    Min_Z=     -1324.40002
+    Max_Z=      10.8649998
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=     -199.068112
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     20.72211813
+      end Species 'Head'
+    end Point '1'
+  end Well '5855-P_13'
+  Well='5864-P_13'
+    X=     13153.41338
+    Y=     9784.863097
+    Min_Z=     -2326.30005
+    Max_Z=      1.25010002
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.2153268
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -28.15969601
+      end Species 'Head'
+    end Point '1'
+  end Well '5864-P_13'
+  Well='5871-P_13'
+    X=     13445.31013
+    Y=     17904.51764
+    Min_Z=     -2369.30005
+    Max_Z=     0.676559985
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.3165433
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -0.358117411
+      end Species 'Head'
+    end Point '1'
+  end Well '5871-P_13'
+  Well='5875-P_13'
+    X=     10595.07285
+    Y=     19305.02325
+    Min_Z=     -1415.80005
+    Max_Z=      10.7519999
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -3.946165003
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -3.954622271
+      end Species 'Head'
+    end Point '1'
+  end Well '5875-P_13'
+  Well='5877-P_13'
+    X=     9727.883204
+    Y=     17120.63797
+    Min_Z=     -1219.69995
+    Max_Z=          12.691
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -13.65130997
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -8.913365502
+      end Species 'Head'
+    end Point '1'
+  end Well '5877-P_13'
+  Well='5895-P_13'
+    X=     12127.89478
+    Y=      25531.6973
+    Min_Z=           -1930
+    Max_Z=      7.30770016
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -21.31522913
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     1.725473853
+      end Species 'Head'
+    end Point '1'
+  end Well '5895-P_13'
+  Well='5911-P_14'
+    X=     13925.26862
+    Y=     26465.94745
+    Min_Z=     -2508.69995
+    Max_Z=     0.290580004
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.3550942
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -86.71485016
+      end Species 'Head'
+    end Point '1'
+  end Well '5911-P_14'
+  Well='5924-P_14'
+    X=     9660.265072
+    Y=      22413.9011
+    Min_Z=     -1219.69995
+    Max_Z=          12.691
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.1092409
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     12.25035114
+      end Species 'Head'
+    end Point '1'
+  end Well '5924-P_14'
+  Well='5928-P_14'
+    X=       11987.172
+    Y=     31271.21544
+    Min_Z=     -1791.30005
+    Max_Z=      7.03910017
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -139.3529347
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -46.17600744
+      end Species 'Head'
+    end Point '1'
+  end Well '5928-P_14'
+  Well='5946-P_14'
+    X=     14350.15574
+    Y=     28703.35786
+    Min_Z=      -2594.3999
+    Max_Z=     0.102920003
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.3660569
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -54.95677189
+      end Species 'Head'
+    end Point '1'
+  end Well '5946-P_14'
+  Well='5991-P_14'
+    X=     10784.70364
+    Y=     23428.44942
+    Min_Z=     -1415.80005
+    Max_Z=     12.18236612
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=     12.18236612
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     15.40861648
+      end Species 'Head'
+    end Point '1'
+  end Well '5991-P_14'
+  Well='5994-P_14'
+    X=     13682.47995
+    Y=     24554.65975
+    Min_Z=      -2484.1001
+    Max_Z=          1.5819
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.2504272
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -94.81419942
+      end Species 'Head'
+    end Point '1'
+  end Well '5994-P_14'
+  Well='6026-P_14'
+    X=      6438.27319
+    Y=     10579.49584
+    Min_Z=     -611.280029
+    Max_Z=      11.4379997
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.1025293
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     17.49236945
+      end Species 'Head'
+    end Point '1'
+  end Well '6026-P_14'
+  Well='6050-P_14'
+    X=     6325.581548
+    Y=     24850.56599
+    Min_Z=     -611.280029
+    Max_Z=     18.04446417
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=     18.04446417
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     55.80029473
+      end Species 'Head'
+    end Point '1'
+  end Well '6050-P_14'
+  Well='6053-P_14'
+    X=     9844.219397
+    Y=      18648.8462
+    Min_Z=     -1219.69995
+    Max_Z=          12.691
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.3050094
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -44.90975145
+      end Species 'Head'
+    end Point '1'
+  end Well '6053-P_14'
+  Well='6082-P_14'
+    X=     9100.590849
+    Y=     29352.99862
+    Min_Z=           -1129
+    Max_Z=      10.0710001
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=      -20.755601
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -1.373721389
+      end Species 'Head'
+    end Point '1'
+  end Well '6082-P_14'
+  Well='6086-P_14'
+    X=       9799.0336
+    Y=     29823.48756
+    Min_Z=     -1219.69995
+    Max_Z=          12.691
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -47.17107269
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=      2.83923858
+      end Species 'Head'
+    end Point '1'
+  end Well '6086-P_14'
+  Well='6143-P_14'
+    X=     11840.49712
+    Y=     23947.26207
+    Min_Z=     -1766.09998
+    Max_Z=      7.16540003
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=     3.023206573
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=      10.0089313
+      end Species 'Head'
+    end Point '1'
+  end Well '6143-P_14'
+  Well='6206-P_14'
+    X=     12709.18252
+    Y=     23722.61435
+    Min_Z=      -2162.3999
+    Max_Z=      1.81529999
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.3040865
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -45.50957925
+      end Species 'Head'
+    end Point '1'
+  end Well '6206-P_14'
+  Well='6217-P_14'
+    X=     12711.09101
+    Y=     23682.20087
+    Min_Z=      -2162.3999
+    Max_Z=      1.81529999
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=     -46.0975499
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     6.485939789
+      end Species 'Head'
+    end Point '1'
+  end Well '6217-P_14'
+  Well='6259-P_14'
+    X=     7146.470601
+    Y=     14727.08658
+    Min_Z=     -688.830017
+    Max_Z=      8.70189953
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -7.422450437
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     11.44265924
+      end Species 'Head'
+    end Point '1'
+  end Well '6259-P_14'
+  Well='6287-P_15'
+    X=     14339.81757
+    Y=     28701.62164
+    Min_Z=      -2594.3999
+    Max_Z=     0.102920003
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.3660569
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -54.95677189
+      end Species 'Head'
+    end Point '1'
+  end Well '6287-P_15'
+  Well='6334-P_15'
+    X=      9167.11256
+    Y=     2637.105668
+    Min_Z=           -1129
+    Max_Z=      10.0710001
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.0579453
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     32.63263927
+      end Species 'Head'
+    end Point '1'
+  end Well '6334-P_15'
+  Well='6349-P_15'
+    X=     6935.130614
+    Y=     10199.65949
+    Min_Z=     -631.969971
+    Max_Z=     13.27018218
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=     13.27018218
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     11.30126836
+      end Species 'Head'
+    end Point '1'
+  end Well '6349-P_15'
+  Well='6353-P_15'
+    X=     13372.13292
+    Y=     26075.99456
+    Min_Z=     -2352.30005
+    Max_Z=      0.81299001
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.1350934
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     8.936904795
+      end Species 'Head'
+    end Point '1'
+  end Well '6353-P_15'
+  Well='6385-P_15'
+    X=     9130.789393
+    Y=     26292.49169
+    Min_Z=           -1129
+    Max_Z=      10.0710001
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -12.23687574
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -75.50400132
+      end Species 'Head'
+    end Point '1'
+  end Well '6385-P_15'
+  Well='HRIII_10401'
+    X=     11611.77049
+    Y=     23915.22289
+    Min_Z=     -1718.19995
+    Max_Z=      7.57490015
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.0842972
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -11.83892233
+      end Species 'Head'
+    end Point '1'
+  end Well 'HRIII_10401'
+  Well='HRIII_4644'
+    X=     12322.20612
+    Y=     32412.20413
+    Min_Z=     -1979.19995
+    Max_Z=      5.96570015
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -181.6933243
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -51.20406228
+      end Species 'Head'
+    end Point '1'
+  end Well 'HRIII_4644'
+  Well='HRIII_4898'
+    X=     12365.24843
+    Y=     31496.59922
+    Min_Z=     -1979.19995
+    Max_Z=      5.96570015
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -143.5483989
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -49.01284205
+      end Species 'Head'
+    end Point '1'
+  end Well 'HRIII_4898'
+  Well='HRIII_5227'
+    X=     13540.87638
+    Y=     24189.58485
+    Min_Z=      -2465.1001
+    Max_Z=      2.35080004
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -42.25686954
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=      1.88328361
+      end Species 'Head'
+    end Point '1'
+  end Well 'HRIII_5227'
+  Well='HRIII_5304'
+    X=     13511.07727
+    Y=      24181.0401
+    Min_Z=      -2465.1001
+    Max_Z=      2.35080004
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -42.25686954
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=      1.88328361
+      end Species 'Head'
+    end Point '1'
+  end Well 'HRIII_5304'
+  Well='HRIII_7623'
+    X=     9716.218574
+    Y=     23745.14962
+    Min_Z=     -1219.69995
+    Max_Z=          12.691
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.2112052
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=      14.7630392
+      end Species 'Head'
+    end Point '1'
+  end Well 'HRIII_7623'
+  Well='HRIII_7636'
+    X=     9707.673816
+    Y=     23774.94873
+    Min_Z=     -1219.69995
+    Max_Z=          12.691
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.2112052
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=      13.4030392
+      end Species 'Head'
+    end Point '1'
+  end Well 'HRIII_7636'
+  Well='HRIII_7690'
+    X=     9686.419461
+    Y=     23736.60486
+    Min_Z=     -1219.69995
+    Max_Z=          12.691
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.2112052
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=      10.4630392
+      end Species 'Head'
+    end Point '1'
+  end Well 'HRIII_7690'
+  Well='HRIII_7780'
+    X=     13202.32018
+    Y=     6998.305096
+    Min_Z=      -2344.6001
+    Max_Z=     0.864579976
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.0816172
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -4.034952596
+      end Species 'Head'
+    end Point '1'
+  end Well 'HRIII_7780'
+  Well='HRIII_7862'
+    X=     13297.86799
+    Y=      9074.05258
+    Min_Z=      -2344.6001
+    Max_Z=     0.864579976
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.1839253
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -22.67130989
+      end Species 'Head'
+    end Point '1'
+  end Well 'HRIII_7862'
+  Well='HRIII_8057'
+    X=     11307.05242
+    Y=     23537.60285
+    Min_Z=     -1553.09998
+    Max_Z=      8.44979954
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.0747442
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     10.59742109
+      end Species 'Head'
+    end Point '1'
+  end Well 'HRIII_8057'
+  Well='HRIII_8087'
+    X=     12278.69805
+    Y=      19115.1046
+    Min_Z=     -1952.90002
+    Max_Z=      6.64319992
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.3902777
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -7.167337826
+      end Species 'Head'
+    end Point '1'
+  end Well 'HRIII_8087'
+  Well='HRIII_8117'
+    X=      11045.5596
+    Y=     23781.99292
+    Min_Z=     -1502.19995
+    Max_Z=      8.52680016
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=     -199.073823
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     4.759275668
+      end Species 'Head'
+    end Point '1'
+  end Well 'HRIII_8117'
+  Well='HRIII_8227'
+    X=     9933.401274
+    Y=     23872.96462
+    Min_Z=     -1219.69995
+    Max_Z=          12.691
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.1838991
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     20.97474282
+      end Species 'Head'
+    end Point '1'
+  end Well 'HRIII_8227'
+  Well='HRIII_8228'
+    X=     9924.856516
+    Y=     23902.76374
+    Min_Z=     -1219.69995
+    Max_Z=          12.691
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.1316846
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     26.66659416
+      end Species 'Head'
+    end Point '1'
+  end Well 'HRIII_8228'
+  Well='HRIII_8749'
+    X=     7376.049868
+    Y=     205.2145454
+    Min_Z=     -688.830017
+    Max_Z=      8.70189953
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -66.61884812
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=     20.91926183
+      end Species 'Head'
+    end Point '1'
+  end Well 'HRIII_8749'
+  Well='HRIII_8839'
+    X=     9559.711906
+    Y=     16305.82367
+    Min_Z=     -1219.69995
+    Max_Z=          12.691
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -199.3058136
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -45.05431417
+      end Species 'Head'
+    end Point '1'
+  end Well 'HRIII_8839'
+  Well='HRIII_9215'
+    X=     11862.18871
+    Y=     28084.76864
+    Min_Z=     -1766.09998
+    Max_Z=      7.16540003
+    Radius=               0
+    ScreenCount=0
+    Screens
+    end Screens
+    ScheduleCount=0
+    Schedule
+    end Schedule
+    PointCount=1
+    Point='1'
+      Z=    -197.2429457
+      SpeciesCount=1
+      Species='Head'
+        ObsCount=1
+        Time=               1
+        Value=    -68.47117055
+      end Species 'Head'
+    end Point '1'
+  end Well 'HRIII_9215'
