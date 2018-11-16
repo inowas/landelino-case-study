@@ -6,23 +6,23 @@
          0         0         0         0         0         0         0
          0         0         0         0         0         0         0
 CONSTANT    1.000000E+02                           #hk layer 1                    
-CONSTANT    1.000000E-01                           #vka layer 1                   
+CONSTANT    1.000000E-01                           #vka1                          
 CONSTANT    1.000000E-05                           #ss layer 1                    
 CONSTANT    1.000000E+02                           #hk layer 2                    
-CONSTANT    1.000000E-01                           #vka layer 2                   
+CONSTANT    1.000000E-01                           #vka2                          
 CONSTANT    1.000000E-05                           #ss layer 2                    
 CONSTANT    1.000000E+02                           #hk layer 3                    
-CONSTANT    1.000000E-01                           #vka layer 3                   
+CONSTANT    1.000000E-01                           #vka3                          
 CONSTANT    1.000000E-05                           #ss layer 3                    
 CONSTANT    1.000000E+02                           #hk layer 4                    
-CONSTANT    1.000000E-01                           #vka layer 4                   
+CONSTANT    1.000000E-01                           #vka4                          
 CONSTANT    1.000000E-05                           #ss layer 4                    
 CONSTANT    1.000000E+02                           #hk layer 5                    
-CONSTANT    1.000000E-01                           #vka layer 5                   
+CONSTANT    1.000000E-01                           #vka5                          
 CONSTANT    1.000000E-05                           #ss layer 5                    
 CONSTANT    1.000000E+02                           #hk layer 6                    
-CONSTANT    1.000000E-01                           #vka layer 6                   
+CONSTANT    1.000000E-01                           #vka6                          
 CONSTANT    1.000000E-05                           #ss layer 6                    
 CONSTANT    1.000000E+02                           #hk layer 7                    
-CONSTANT    1.000000E-01                           #vka layer 7                   
+CONSTANT    1.000000E-01                           #vka7                          
 CONSTANT    1.000000E-05                           #ss layer 7                    
