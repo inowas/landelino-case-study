@@ -1,4 +1,5 @@
 Well_Name,X-world_co,Y-world_co,Start_Time,Stop_Time[,Rate[m^3/d,Number_of_,Screen_Top,Screen_Bot,row,column,LAYER,more layers
+injection,292438.03,9104932.2,0,1,7,1,-127,-135,6
 VAZAR494,292182.13,9105647.6,0,1,-7.279759,1,6.735391,-32.951078,6,6,2,3
 HRIII_7150,292220,9105575,0,1,-40,1,-36.010598,-183.86091,11,11,6,"4,5"
 VAZAR495,292278.26,9105620.1,0,1,-7.279759,1,7.090798,-33.3593,5,15,2,3
