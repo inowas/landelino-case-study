@@ -9,5 +9,6 @@ WEL               20  landelina.wel
 BCF6              15  landelina.bcf 
 PCG               27  landelina.pcg 
 OC                14  landelina.oc 
+LMT6              30  landelina.lmt6 
 DATA(BINARY)     154  landelina.cbc REPLACE
 DATA(BINARY)      51  landelina.hds REPLACE
